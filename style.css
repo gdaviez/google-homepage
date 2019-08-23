@@ -1,0 +1,16 @@
+#logo{
+    position: absolute;
+    left: calc(40% - 272px/2);
+}
+#search-box{
+    width: 341px;
+    left: calc(50% - 272px/2);
+    top: calc(50% - 272px/2);
+    border: 2px black solid;
+    position: absolute;
+    height: 44px;
+    width: fit-content;
+    line-height: 30px;
+}
+#googlebox{
+    width: 50%;
