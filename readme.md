@@ -1,0 +1,1 @@
+This is my first Odin project, im not sure what its going to be but i have no idea what i am doing!
